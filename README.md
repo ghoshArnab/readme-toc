@@ -7,7 +7,7 @@ This document outlines multiple methods to create or use existing service url.
  
 <!--ts-->
    * [Method 1 : via docker image](#method-1-via-docker-image)
-   * [Method 2 : via git code base](#method-2-via-git-code-base)
+   * [Method 2 : via git code base](#method-2--via-git-code-base)
    * [Method 3 : via constellation service URL (**Recommended**)](#method-3--via-constellation-service-url-recommended)
 <!--te-->
  
