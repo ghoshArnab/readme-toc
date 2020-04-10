@@ -22,24 +22,24 @@ Table of contents
 
 
 ### Redux
------
+
 
 
 
 ### Error handling
------
+
 
 
 
 
 ### Validations
------
+
 
 
 
 
 ### Expression
------
+
 
 
 
@@ -49,7 +49,6 @@ Table of contents
 
 
 ### Asset loader
------
 
 Exposes APIs to load the script files and css files as of now.
 
